@@ -1,0 +1,6 @@
+# Built app (run ./build.sh to make it)
+Livewall.app/
+build.log
+
+# macOS
+.DS_Store
